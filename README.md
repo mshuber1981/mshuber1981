@@ -8,4 +8,4 @@ Check out my portfolio site - [mikeyneedsajob.com](https://www.mikeyneedsajob.co
 
 ## Stats 📊
 
-![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mshuber1981&show_icons=true&theme=dracula) ![Michael's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshuber1981&theme=dracula)
+![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mshuber1981&show_icons=true&theme=react) ![Michael's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshuber1981&theme=react&layout=compact)
