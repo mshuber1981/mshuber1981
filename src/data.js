@@ -79,10 +79,12 @@ export const certs = [
   {
     id: 1,
     image: dev,
+    name: "AWS Developer Associate",
   },
   {
     id: 2,
     image: saa,
+    name: "AWS Solutions Architect Associate",
   },
 ];
 
