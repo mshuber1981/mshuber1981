@@ -80,11 +80,15 @@ export const certs = [
     id: 1,
     image: dev,
     name: "AWS Developer Associate",
+    link:
+      "https://www.youracclaim.com/badges/b8be6845-1c01-4205-8387-09a97be77004/public_u",
   },
   {
     id: 2,
     image: saa,
     name: "AWS Solutions Architect Associate",
+    link:
+      "https://www.youracclaim.com/badges/bda9d426-3515-4063-8d0a-5bf1626b2d14/public_u",
   },
 ];
 
