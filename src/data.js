@@ -11,6 +11,10 @@ import {
 } from "react-icons/fa";
 import { SiJavascript } from "react-icons/si";
 
+// Certs Images
+import dev from "./assets/images/dev.png";
+import saa from "./assets/images/saa.png";
+
 // Projects Images (add your images to the /assets/images directory and import below)
 import colors from "./assets/images/colors.svg";
 import react from "./assets/images/logo.svg";
@@ -68,6 +72,17 @@ export const skillData = [
     id: 9,
     skill: <FaAws className="display-4" />,
     name: "AWS",
+  },
+];
+
+export const certs = [
+  {
+    id: 1,
+    image: dev,
+  },
+  {
+    id: 2,
+    image: saa,
   },
 ];
 
