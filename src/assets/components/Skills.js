@@ -1,4 +1,6 @@
-import { skillData } from "../../data";
+// https://react-icons.netlify.com/#/
+import { FaLink } from "react-icons/fa";
+import { skillData, certs } from "../../data";
 
 const Skills = ({ theme }) => {
   const newTheme = `${theme} d-flex flex-column min-vh-100 justify-content-center`;
@@ -15,6 +17,19 @@ const Skills = ({ theme }) => {
                 {skills.skill}
                 <figcaption>{skills.name}</figcaption>
               </figure>
+            );
+          })}
+        </div>
+        <div className="row">
+          {certs.map((certs) => {
+            return (
+              <div className="col-md-6" key={certs.id}>
+                <img src={certs.image} alt={certs.name} />
+                <br />
+                <a href={certs.link} target="_blank" rel="noreferrer">
+                  <FaLink />
+                </a>
+              </div>
             );
           })}
         </div>
