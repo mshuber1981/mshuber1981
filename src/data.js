@@ -12,8 +12,8 @@ import {
 import { SiJavascript } from "react-icons/si";
 
 // Certs Images
-import dev from "./assets/images/dev.png";
-import saa from "./assets/images/saa.png";
+import dev from "./assets/images/dev.PNG";
+import saa from "./assets/images/saa.PNG";
 
 // Projects Images (add your images to the /assets/images directory and import below)
 import colors from "./assets/images/colors.svg";
