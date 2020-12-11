@@ -6,6 +6,7 @@ import {
   ProjectsError,
   ProjectsLoading,
 } from "../components/projectsLoadingError";
+import CarouselComp from "../components/CarouselComp";
 
 // Image
 import defualtImage from "../images/logo.svg";
@@ -104,6 +105,7 @@ const Projects = ({ theme, githubUsername }) => {
               );
             })}
           </CardColumns>
+          <CarouselComp />
         </div>
       </section>
     );
@@ -133,6 +135,7 @@ const Projects = ({ theme, githubUsername }) => {
             );
           })}
         </CardColumns>
+        <CarouselComp />
       </div>
     </section>
   );
