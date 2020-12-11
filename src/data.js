@@ -20,6 +20,11 @@ import colors from "./assets/images/colors.svg";
 import react from "./assets/images/logo.svg";
 import notepad from "./assets/images/notepad.svg";
 
+// Carousel Images
+import rwd from "./assets/images/rwd.jpg";
+import js from "./assets/images/js.jpg";
+import fel from "./assets/images/fel.jpg";
+
 /* START HERE - add your GitHub username below
  ************************************************************** */
 export const githubUsername = "mshuber1981";
@@ -112,6 +117,28 @@ export const projectData = [
   },
   {
     image: notepad,
+  },
+];
+
+export const carouselData = [
+  {
+    id: 1,
+    image: rwd,
+    name: "Responsive Web Design",
+    link: "https://github.com/mshuber1981/FCC-Responsive-Web-Design-Projects",
+  },
+  {
+    id: 2,
+    image: js,
+    name: "JavaScript Algorithms and Data Structures",
+    link:
+      "https://github.com/mshuber1981/FCC-JavaScript-Algorithms-and-Data-Structures-Projects",
+  },
+  {
+    id: 3,
+    image: fel,
+    name: "Front End Libraries",
+    link: "https://github.com/mshuber1981/FCC-Front-End-Libraries-Projects",
   },
 ];
 
