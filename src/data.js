@@ -15,7 +15,7 @@ import { SiJavascript } from "react-icons/si";
 import dev from "./assets/images/dev.PNG";
 import saa from "./assets/images/saa.PNG";
 
-// Projects Images (add your images to the /assets/images directory and import below)
+// Projects Images
 import colors from "./assets/images/colors.svg";
 import react from "./assets/images/logo.svg";
 import notepad from "./assets/images/notepad.svg";
@@ -25,13 +25,12 @@ import rwd from "./assets/images/rwd.jpg";
 import js from "./assets/images/js.jpg";
 import fel from "./assets/images/fel.jpg";
 
-/* START HERE - add your GitHub username below
+/* GitHub Username
  ************************************************************** */
 export const githubUsername = "mshuber1981";
 
 /* Skills
  ************************************************************** */
-// Add or remove skills in the SAME format below, there must be one icon imported above per skill below and 3 skills per row
 export const skillData = [
   {
     id: 1,
@@ -99,15 +98,12 @@ export const certs = [
 
 /* Projects
  ************************************************************** */
-// List the repo names you want to include (they will be sorted alphabetically), leave the array empty if you want to include everything
 export const filteredProjects = [
   "Background-Generator",
   "github-react-portfolio-template",
   "notepad",
 ];
 
-// List the card images you want to include in the same order as the repos above (alphabetically)
-// There MUST be one image per repo above or the defualt image will be applied
 export const projectData = [
   {
     image: colors,
@@ -144,8 +140,6 @@ export const carouselData = [
 
 /* Contact Info
  ************************************************************** */
-// Share the contact info you are comfortable with (no dashes for phone numbers)
-// If no info provided a button with a link to mailchimp will be rendered, update the link if you want to use this option
 export const contactInfo = {
   email: "",
   phone: "",
