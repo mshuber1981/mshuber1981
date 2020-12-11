@@ -120,20 +120,17 @@ export const carouselData = [
   {
     id: 1,
     image: rwd,
-    name: "Responsive Web Design",
     link: "https://github.com/mshuber1981/FCC-Responsive-Web-Design-Projects",
   },
   {
     id: 2,
     image: js,
-    name: "JavaScript Algorithms and Data Structures",
     link:
       "https://github.com/mshuber1981/FCC-JavaScript-Algorithms-and-Data-Structures-Projects",
   },
   {
     id: 3,
     image: fel,
-    name: "Front End Libraries",
     link: "https://github.com/mshuber1981/FCC-Front-End-Libraries-Projects",
   },
 ];
