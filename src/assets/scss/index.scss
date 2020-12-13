@@ -275,6 +275,11 @@ footer {
     h2 {
       margin-top: 4.25rem;
     }
+    .carousel {
+      a {
+        font-size: 2rem;
+      }
+    }
   }
   #contact {
     h2 {
@@ -311,6 +316,18 @@ footer {
     }
     img {
       width: 45%;
+    }
+  }
+  #projects {
+    .card {
+      img {
+        max-height: 9rem;
+      }
+    }
+    .carousel {
+      img {
+        max-height: 14rem;
+      }
     }
   }
   #contact {
@@ -377,6 +394,16 @@ footer {
   #projects {
     h2 {
       margin-top: 4.25rem;
+    }
+    .card {
+      img {
+        max-height: 11rem;
+      }
+    }
+    .carousel {
+      img {
+        max-height: 17rem;
+      }
     }
   }
   #contact {
