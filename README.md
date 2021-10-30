@@ -1,10 +1,4 @@
-![Header](/images/michael-huber.png)
-
-# About Me
-
-After a successful career in Information Technology support I felt like something was missing. I enjoyed the work I was doing, but I wanted to learn more. I decided to make a change and learn to code. Now I am on a journey to rediscover my own potential.
-
-Check out my portfolio site - [mikeyneedsajob.com](https://www.mikeyneedsajob.com/)
+![Header](/code.jpg)
 
 ## Stats 📊
 
