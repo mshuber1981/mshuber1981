@@ -3,7 +3,8 @@
 </br>
 
 <a href="https://www.credly.com/badges/b8be6845-1c01-4205-8387-09a97be77004/public_url">
-  <img src="https://raw.githubusercontent.com/mshuber1981/mshuber1981/master/Media/AWS-Developer-Associate-2020.png" width="200px" />
+  <!-- <img src="https://raw.githubusercontent.com/mshuber1981/mshuber1981/master/Media/AWS-Developer-Associate-2020.png" width="200px" /> -->
+  <img src="/Media/AWS-Developer-Associate-2020.png" width="200px" />
 </a>
 
 </br>
