@@ -2,8 +2,6 @@
 
 ## [mikeyhuber.crypto](https://ud.me/mikeyhuber.crypto) :money_mouth_face:
 
-</br>
-
 ## Certifications :heavy_check_mark:
 
 <a href="https://www.credly.com/badges/b8be6845-1c01-4205-8387-09a97be77004/public_url">
