@@ -1,8 +1,6 @@
-# [My Story](https://mshuber1981.github.io/mshuber1981/index.html) :book:
+# [My Story](https://www.mikeyhuber.me/My-Story) :book:
 
 ## [mikeyhuber.crypto](https://ud.me/mikeyhuber.crypto) :money_mouth_face:
-
-<!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#tool -->
 
 ## Skills :hammer_and_wrench:
 
@@ -12,9 +10,7 @@
 
 ## Certifications :heavy_check_mark:
 
-<a href="https://www.credly.com/badges/b8be6845-1c01-4205-8387-09a97be77004/public_url">
-  <img src="/Media/AWS-Developer-Associate-2020.png" width="150px" height="150px" />
-</a>
+![AWS Developer Associate](/AWS-Developer-Associate-2020.png)
 
 </br>
 
