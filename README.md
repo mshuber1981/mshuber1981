@@ -1,6 +1,6 @@
 # :book: [My Story](https://www.mikeyhuber.me/My-Story)
 
-## :money_mouth_face:[mikeyhuber.crypto](https://ud.me/mikeyhuber.crypto) | :heavy_dollar_sign:[ADA Handle](https://handle.me/mikeyhuber) | :page_facing_up:[jpg.store](https://www.jpg.store/MikeyHuber)
+## :money_mouth_face: [mikeyhuber.crypto](https://ud.me/mikeyhuber.crypto)
 
 ## :hammer_and_wrench: Skills
 
