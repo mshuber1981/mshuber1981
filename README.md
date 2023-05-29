@@ -11,7 +11,3 @@
 ## :heavy_check_mark: Certifications
 
 [![AWS Developer Associate](/AWS-Developer-Associate-2020.png)](https://www.credly.com/badges/b8be6845-1c01-4205-8387-09a97be77004/public_url)
-
-## :bar_chart: Stats
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshuber1981&show_icons=true&theme=react)
