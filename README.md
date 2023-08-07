@@ -1,7 +1,5 @@
 # :book: [My Story](https://www.mikeyhuber.me/My-Story)
 
-## :money_mouth_face: [mikeyhuber.crypto](https://ud.me/mikeyhuber.crypto)
-
 ## :hammer_and_wrench: Skills
 
 <!-- https://github.com/Ileriayo/markdown-badges#markdown-badges -->
