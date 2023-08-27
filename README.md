@@ -8,4 +8,4 @@
 
 ## :heavy_check_mark: Certifications
 
-[![AWS Developer Associate](/AWS-Developer-Associate-2020.png)](https://www.credly.com/badges/b8be6845-1c01-4205-8387-09a97be77004/public_url)
+[![AWS Developer Associate](/dev.png)](https://www.credly.com/badges/4c5a6916-9679-4500-9eb8-e3042d073dd2/public_url)
