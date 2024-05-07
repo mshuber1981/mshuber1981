@@ -1,9 +1,5 @@
 # :book: [My Story](https://www.mikeyhuber.me/My-Story)
 
-Help! I need to find a new job. I have applied for hundreds of jobs over the last couple of months but I rarely even get an automated rejection response. What is going on? Is there something wrong with me?
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikeyhuber/)
-
 ## :hammer_and_wrench: Skills
 
 <!-- https://github.com/Ileriayo/markdown-badges#markdown-badges -->
